@@ -102,3 +102,12 @@ Reflector  Rot_izd   Rot_med   Rot_der  Teclado
 """
 ```
 Fíjate que ni el Teclado ni el Reflector cambian, solo los rotores izquierdo, medio y derecho.
+
+## <font color='green'>Misión</font>
+
+Con los planos obtenidos, debes programar en Python tu propia Máquina Enigma. Cuando hayas terminado, se te dará un mensaje cifrado que deberás decodificar para aprobar el curso.
+
+Tu misión consiste en lo siguiente:<br>
+1. Programar la lógica de la máquina utilizando la información de los rotores conseguidos
+2. Ingresar una clave inicial (te será dada)
+3. Decodificar el mensaje correctamente
